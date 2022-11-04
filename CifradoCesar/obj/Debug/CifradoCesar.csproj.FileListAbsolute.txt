@@ -1,0 +1,11 @@
+C:\Users\danve\source\repos\CifradoCesar\CifradoCesar\bin\Debug\CifradoCesar.exe.config
+C:\Users\danve\source\repos\CifradoCesar\CifradoCesar\bin\Debug\CifradoCesar.exe
+C:\Users\danve\source\repos\CifradoCesar\CifradoCesar\bin\Debug\CifradoCesar.pdb
+C:\Users\danve\source\repos\CifradoCesar\CifradoCesar\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\danve\source\repos\CifradoCesar\CifradoCesar\obj\Debug\CifradoCesar.csproj.AssemblyReference.cache
+C:\Users\danve\source\repos\CifradoCesar\CifradoCesar\obj\Debug\CifradoCesar.Form1.resources
+C:\Users\danve\source\repos\CifradoCesar\CifradoCesar\obj\Debug\CifradoCesar.Properties.Resources.resources
+C:\Users\danve\source\repos\CifradoCesar\CifradoCesar\obj\Debug\CifradoCesar.csproj.GenerateResource.cache
+C:\Users\danve\source\repos\CifradoCesar\CifradoCesar\obj\Debug\CifradoCesar.csproj.CoreCompileInputs.cache
+C:\Users\danve\source\repos\CifradoCesar\CifradoCesar\obj\Debug\CifradoCesar.exe
+C:\Users\danve\source\repos\CifradoCesar\CifradoCesar\obj\Debug\CifradoCesar.pdb
